@@ -17,7 +17,7 @@ Application that collect analytics from the BigBlueButton Analytics Callback and
 
 ## Notes
 - You should use an app like Metabase for analytics purpose of the constituted database
-- Use the conference id as key, check that two serveur don't generate the same id
+- Use the conference id as key, check that two servers don't generate the same id
 
 ### Run in dev mode
 
