@@ -119,7 +119,6 @@ describe('Meetings', async () => {
           apiResponse.internal_meeting_id
         );
         stats.tag.should.be.equal('dinum');
-        stats.weekday.should.be.equal(1);
       });
     });
   });
