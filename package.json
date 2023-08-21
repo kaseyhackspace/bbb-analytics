@@ -41,7 +41,7 @@
         "full-icu": "^1.5.0",
         "jsonwebtoken": "^9.0.0",
         "knex": "^2.4.0",
-        "pg": "^8.6.0",
+        "pg": "^8.11.3",
         "ts-mocha": "^10.0.0"
     },
     "devDependencies": {
